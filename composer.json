@@ -13,5 +13,8 @@
             "email": "adnensaid83@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/mailer": "^5.4",
+        "gipetto/cowsay": "^1.1"
+    }
 }
