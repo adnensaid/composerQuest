@@ -1,0 +1,17 @@
+{
+    "name": "macbook/composer",
+    "description": "<<",
+    "autoload": {
+        "psr-4": {
+            "Macbook\\Composer\\": "src/",
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adnensaid",
+            "email": "adnensaid83@gmail.com"
+        }
+    ],
+    "require": {}
+}
